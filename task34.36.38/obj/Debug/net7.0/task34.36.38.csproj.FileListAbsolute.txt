@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\homework5\task34.36.38\obj\Debug\net7.0\task34.36.38.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\homework5\task34.36.38\obj\Debug\net7.0\task34.36.38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\homework5\task34.36.38\obj\Debug\net7.0\task34.36.38.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\homework5\task34.36.38\obj\Debug\net7.0\task34.36.38.AssemblyInfo.cs
+C:\Users\Антон\Desktop\homework5\task34.36.38\obj\Debug\net7.0\task34.36.38.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\homework5\task34.36.38\bin\Debug\net7.0\task34.36.38.exe
+C:\Users\Антон\Desktop\homework5\task34.36.38\bin\Debug\net7.0\task34.36.38.deps.json
+C:\Users\Антон\Desktop\homework5\task34.36.38\bin\Debug\net7.0\task34.36.38.runtimeconfig.json
+C:\Users\Антон\Desktop\homework5\task34.36.38\bin\Debug\net7.0\task34.36.38.dll
+C:\Users\Антон\Desktop\homework5\task34.36.38\bin\Debug\net7.0\task34.36.38.pdb
+C:\Users\Антон\Desktop\homework5\task34.36.38\obj\Debug\net7.0\task34.36.38.dll
+C:\Users\Антон\Desktop\homework5\task34.36.38\obj\Debug\net7.0\refint\task34.36.38.dll
+C:\Users\Антон\Desktop\homework5\task34.36.38\obj\Debug\net7.0\task34.36.38.pdb
+C:\Users\Антон\Desktop\homework5\task34.36.38\obj\Debug\net7.0\task34.36.38.genruntimeconfig.cache
+C:\Users\Антон\Desktop\homework5\task34.36.38\obj\Debug\net7.0\ref\task34.36.38.dll
